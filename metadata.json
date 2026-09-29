@@ -1,0 +1,6 @@
+{
+  "name": "FutureFund — Deterministic AI Financial Simulator",
+  "description": "Compare parallel financial decisions, stress-test multivariate scenarios, and evaluate 36-month liquidity trajectories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
